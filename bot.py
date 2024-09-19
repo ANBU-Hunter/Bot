@@ -136,7 +136,7 @@ def check_domain(update: Update, context: CallbackContext) -> None:
 
 def main() -> None:
     # استبدل 'YOUR_TOKEN' بالتوكن الخاص بك
-    updater = Updater("YOUR_TOKEN")
+    updater = Updater("6173495708:AAGGx4Snub_8J9m8T58hU73XGqyFL8Ces34")
 
     dispatcher = updater.dispatcher
 
